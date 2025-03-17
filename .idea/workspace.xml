@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f3510ba-ee28-4714-90d5-aa4ef1cc7a06" name="Changes" comment="Добавлены задания по уроку 4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    },
+    {
+      &quot;searchQuery&quot;: &quot;le&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;le&quot;,
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Elina-ml/readme.md.git&quot;,
+    &quot;accountId&quot;: &quot;3655ca5e-f0bf-4dc9-8317-c42b9cec710a&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tK5vbZNlAi5uRESUBIC3BlPcQn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "Python tests.Python tests in calculator_abc.py.executor": "Run",
+    "Python tests.Python tests in calculator_test.py.executor": "Run",
+    "Python tests.Python tests in test_example.py.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_capitalize_negative.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_capitalize_positive.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_contains_negative.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_contains_positive.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_delete_symbol_negative.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_delete_symbol_positive.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_trim_negative.executor": "Run",
+    "Python tests.pytest for test_string_utils.test_trim_positive.executor": "Run",
+    "Python tests.pytest in test_string_utils.py.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.calculator_test.executor": "Run",
+    "Python.lesson_1_task_1.py..executor": "Run",
+    "Python.lesson_1_task_3.py..executor": "Run",
+    "Python.lesson_1_task_4.py..executor": "Run",
+    "Python.lesson_1_task_5.py..executor": "Run",
+    "Python.lesson_2_task_1.executor": "Run",
+    "Python.lesson_2_task_2.executor": "Run",
+    "Python.lesson_2_task_3.executor": "Run",
+    "Python.lesson_2_task_4.executor": "Run",
+    "Python.lesson_2_task_5.executor": "Run",
+    "Python.lesson_2_task_6.executor": "Run",
+    "Python.lesson_2_task_7.executor": "Run",
+    "Python.my_heigh.executor": "Run",
+    "Python.practic.executor": "Run",
+    "Python.requirements.txt.executor": "Run",
+    "Python.Создайте файл lesson_1_task_2.py..executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "lesson__04",
+    "last_opened_file_path": "C:/Users/Home/PycharmProjects/Skypro_Python_hw/hw/lesson_04",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\readme.md" />
+      <recent name="C:\Users\Home\PycharmProjects\readme.md\Lesson_04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_string_utils.test_capitalize_negative">
+    <configuration name="pytest for test_string_utils.test_capitalize_negative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="readme_homework.md" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_string_utils.test_capitalize_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_string_utils.test_contains_negative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="readme_homework.md" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_string_utils.test_contains_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_string_utils.test_contains_positive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="readme_homework.md" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_string_utils.test_contains_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_string_utils.test_delete_symbol_negative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="readme_homework.md" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_string_utils.test_delete_symbol_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_string_utils.test_delete_symbol_positive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="readme_homework.md" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_string_utils.test_delete_symbol_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_string_utils.test_capitalize_negative" />
+        <item itemvalue="Python tests.pytest for test_string_utils.test_delete_symbol_negative" />
+        <item itemvalue="Python tests.pytest for test_string_utils.test_delete_symbol_positive" />
+        <item itemvalue="Python tests.pytest for test_string_utils.test_contains_negative" />
+        <item itemvalue="Python tests.pytest for test_string_utils.test_contains_positive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3510ba-ee28-4714-90d5-aa4ef1cc7a06" name="Changes" comment="" />
+      <created>1740088156312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740088156312</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Добавлены задания по уроку 1">
+      <option name="closed" value="true" />
+      <created>1740096891978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740096891978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="задания по уроку 1">
+      <option name="closed" value="true" />
+      <created>1740097413721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740097413721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлены задания по уроку 1">
+      <option name="closed" value="true" />
+      <created>1740098135625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740098135625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавлены задания по уроку 2">
+      <option name="closed" value="true" />
+      <created>1740624322828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740624322828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавлены задания по уроку 2">
+      <option name="closed" value="true" />
+      <created>1740625624923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740625624923</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Добавлены задания по уроку 2">
+      <option name="closed" value="true" />
+      <created>1740625749650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740625749650</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавлены задания по уроку 2">
+      <option name="closed" value="true" />
+      <created>1740625866173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740625866173</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Добавлены задания по уроку 2">
+      <option name="closed" value="true" />
+      <created>1740626105676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740626105676</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавлены задания по уроку 2">
+      <option name="closed" value="true" />
+      <created>1740628024630</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740628024630</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Добавлены задания по уроку 4">
+      <option name="closed" value="true" />
+      <created>1742242123361</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742242123362</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="задания по уроку 1" />
+    <MESSAGE value="Добавлены задания по уроку 1" />
+    <MESSAGE value="Добавлены задания по уроку 2" />
+    <MESSAGE value="Добавлены задания по уроку 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены задания по уроку 4" />
+  </component>
+</project>
