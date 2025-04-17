@@ -16,12 +16,11 @@ def driver():
     driver.quit()
 
 buttons = ['7', '+', '8', '=']
-txt = ['15']
+txt = '15'
 
 def test_calculator(driver):
     calculator = CalculatorPage(driver)
     calculator.locator_for("45")
-    calculator.def_buttons()
-    calculator.check_result()
-    result = calculator.check_result()
+    calculator.det_buttons()
+    result = calculator.check_results()
     assert result == txt
