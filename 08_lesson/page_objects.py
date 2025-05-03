@@ -15,13 +15,13 @@ class ProjectsAPI:
         return headers
 
     def create_project(self, project_data):
-        response = requests.post(self.BASE_URL, json=project_data)
+        response = requests.post(self.BASE_URL, json=project_data, headers=self._get_headers())
         return response
 
     def update_project(self, project_id, project_data):
-        response = requests.put(f"{self.BASE_URL}/{project_id}", json=project_data)
+        response = requests.put(f"{self.BASE_URL}/{project_id}", json=project_data, headers=self._get_headers())
         return response
 
     def get_project(self, project_id):
-        response = requests.get(f"{self.BASE_URL}/{project_id}")
+        response = requests.get(f"{self.BASE_URL}/{project_id}", headers=self._get_headers())
         return response
