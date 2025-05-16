@@ -25,7 +25,6 @@ class CalcMainPage:
             self.click_button(button)
 
     def wait_for_result(self, expected_result: str, delay: int) -> None:
-        # Р”РѕР±Р°РІР»СЏРµРј +1 СЃРµРєСѓРЅРґСѓ Рє Р·Р°РґРµСЂР¶РєРµ РґР»СЏ РЅР°РґРµР¶РЅРѕСЃС‚Рё
         WebDriverWait(self.driver, delay + 1).until(
             EC.text_to_be_present_in_element((
                 By.CLASS_NAME, "screen"), expected_result)
